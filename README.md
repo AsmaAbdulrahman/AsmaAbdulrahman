@@ -2,10 +2,10 @@
 
 
 
-    Hi, I’m Asma Alshehri 
-- 👩🏻‍💻 I’m interested in Front-End development and Graphic design
+### Hi, I’m Asma Alshehri 
+-  I’m interested in Front-End development and Graphic design
 -  I’m currently focusing on improving my front-end development skills
-- 📨 Reach me via send me an emeil : alshehriasma1324@gmail.com
+-  Reach me via send me an emeil : alshehriasma1324@gmail.com
 
 <!--
 **AsmaAbdulrahman/AsmaAbdulrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
